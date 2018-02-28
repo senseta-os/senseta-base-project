@@ -1,5 +1,11 @@
 # Base Project
 
+## Note 
+
+As [I have been the only maintainer](https://github.com/tiangolo) of this project, I'll continue the development in this fork: https://github.com/tiangolo/full-stack.
+
+---
+
 [![Build Status](https://travis-ci.org/senseta-os/senseta-base-project.svg?branch=master)](https://travis-ci.org/senseta-os/senseta-base-project)
 
 Generate a back end and front end stack using Python, including interactive API documentation.
